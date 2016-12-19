@@ -1,3 +1,3 @@
 # Sorting and Ordering
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Tex
+![alt text](http://algs4.cs.princeton.edu/25applications/images/sort-characteristics.png)
