@@ -1,0 +1,7 @@
+# Heapsort
+
+##Heap
+
+* A heap is a full binary tree.
+* Two kinds of heaps, one is max-heap and other is min-heap.
+* Important property of heap is its children should be less than or greater than itself.
