@@ -1,6 +1,7 @@
 # Divide and Conquer
 
-Three basic steps for solving a problem using divide and conquer
+Three basic steps for solving a problem using divide and conquer.
+
 1. Divide the problem into independent subproblems until they are solvable.
 2. Solve the subproblems.
 3. Combine the solutions of the subproblems.
