@@ -1,4 +1,4 @@
-#Insertion Sort
+# Insertion Sort
 
 Take an element i sequentially from 1 to n and insert it in its appropriate position on to its left between 0 to i
 ```c++

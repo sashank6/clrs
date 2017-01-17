@@ -1,6 +1,6 @@
 # Introduction to Elementary Datastructures
 
-##Stacks
+## Stacks
 * LIFO Last In First Out.
 * top, push, pop.
 
@@ -11,5 +11,5 @@
 ## Linked Lists
 * head, tail
 
-##Trees
+## Trees
 * Binary tree

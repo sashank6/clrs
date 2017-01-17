@@ -1,7 +1,7 @@
 # Quicksort
 
 
-##Why quicksort?
+## Why quicksort?
 * It is an inplace sorting algorithm.
 * Its worst case time complexity is \theta(n^2) the average time complexity is \theta(nlogn).
 * The hidden constants in time complexity are quite small.
@@ -29,7 +29,7 @@ for j = 0 to hi-1
 swap(arr[++i],arr[hi]);
 return i;		
 ```
-##Hoare Partition
+## Hoare Partition
 ```c++
 		int pivotValue = arr[high];
         int i=low;

@@ -1,12 +1,12 @@
-#Counting Sort
+# Counting Sort
 
-##Info
+## Info
 * Counting sort is used for sorting integers.
 * The worst case time complexity is \theta(K) where k=range(i.e max-min).
 * The worst case space complexity is \theta(K).
 
 
-##Algorithm
+## Algorithm
 * Calculate min and max of the array, compute the range.
 * Allocate O(range) space on a temporary counting array.
 * Compute the frequencies of elements using the count array.
